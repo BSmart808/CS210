@@ -12,7 +12,7 @@ Where could you enhance your code? How would these improvements make your code m
 - If I could go back and structure the display code better it would make the code less cluttered and messy looking
   
 Which pieces of the code did you find most challenging to write, and how did you overcome this? What tools or resources are you adding to your support network?
-- The most challenging part of the code was the math in the InvestmentMath.cpp file. I struggled multiple times with making sure the calculated interest code was working properly and correctly outputing the write numbers. It took a while to come up with the nested for loop solution.
+- The most challenging part of the code was the math in the InvestmentMath.cpp file. I struggled multiple times with making sure the calculated interest code was working properly and correctly outputing the right numbers. It took a while to come up with the nested for loop solution.
   
 What skills from this project will be particularly transferable to other projects or course work?
 - This project helped a lot with understanding the concept of Object Oriented Programming. It was an Aha moment for me when I finished writing the program and helped me understand the concept of it fully.
